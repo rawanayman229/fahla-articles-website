@@ -1,0 +1,66 @@
+{
+  "hero": {
+    "title": "Welcome to Fahla International",
+    "subtitle": "Your gateway to a world of knowledge and insightful articles across diverse fields, available in both Arabic and English.",
+    "button": "Explore Articles"
+  },
+  "latestArticles": {
+    "title": "Latest Articles"
+  },
+  "popularPosts": {
+    "title": "Popular Posts"
+  },
+  "ourAuthors": {
+    "title": "Our Authors"
+  },
+  "buttons": {
+    "translate": "Translate",
+    "seeAllLatest": "See All Latest Articles"
+  },
+  "articles": {
+    "ai": {
+      "title": "The Future of AI in Education",
+      "description": "Explore how artificial intelligence is set to revolutionize learning and teaching methodologies worldwide."
+    },
+    "sustainability": {
+      "title": "Sustainable Living: A Comprehensive Guide",
+      "description": "Discover practical steps and innovative ideas for adopting a more sustainable lifestyle."
+    },
+    "storytelling": {
+      "title": "The Art of Digital Storytelling",
+      "description": "Uncover the secrets behind crafting compelling narratives in the digital age."
+    }
+  },
+  "posts": {
+    "climate": {
+      "title": "The Impact of Climate Change on Agriculture",
+      "author": "By John Smith"
+    },
+    "renewable": {
+      "title": "Innovations in Renewable Energy",
+      "author": "By Jane Doe"
+    },
+    "psychology": {
+      "title": "The Psychology of Decision Making",
+      "author": "By Emily White"
+    }
+  },
+  "authors": {
+    "jane": {
+      "name": "Jane Doe",
+      "role": "AI & Education Specialist"
+    },
+    "john": {
+      "name": "John Smith",
+      "role": "Sustainability Expert"
+    },
+    "emily": {
+      "name": "Emily White",
+      "role": "Digital Storyteller"
+    },
+    "david": {
+      "name": "David Green",
+      "role": "Economic Analyst"
+    }
+  }
+}

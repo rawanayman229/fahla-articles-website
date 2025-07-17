@@ -1,6 +1,10 @@
+import Home from "./pages/Home";
 function App() {
   return <>
-    <h1 className="text-blue-600">Hello world</h1>
+  <div className="bg-gray-50 min-h-screen">
+    <Home />
+  </div>
+
   </>;
 }
 
