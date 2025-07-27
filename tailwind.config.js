@@ -5,7 +5,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        cairo: ['"Cairo"', 'sans-serif'], // خط مخصص
+        cairo: ['"Cairo"', 'sans-serif'], 
       },
     },
   },
